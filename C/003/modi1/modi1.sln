@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "modi1", "modi1\modi1.vcxproj", "{2CE256B6-E774-4AAB-94A6-ECFF46DE88F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CE256B6-E774-4AAB-94A6-ECFF46DE88F8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2CE256B6-E774-4AAB-94A6-ECFF46DE88F8}.Debug|Win32.Build.0 = Debug|Win32
+		{2CE256B6-E774-4AAB-94A6-ECFF46DE88F8}.Release|Win32.ActiveCfg = Release|Win32
+		{2CE256B6-E774-4AAB-94A6-ECFF46DE88F8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
